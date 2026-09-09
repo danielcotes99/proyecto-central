@@ -13,5 +13,5 @@ streamlit-qrcode-scanner
 qrcode
 reportlab
 boto3
-sqlite3
+
  
