@@ -1,0 +1,17 @@
+streamlit
+pandas
+numpy
+openpyxl
+psycopg2-binary
+streamlit-aggrid
+streamlit-shadcn-ui
+Pillow
+plotly
+streamlit-extras
+pytz
+streamlit-qrcode-scanner
+qrcode
+reportlab
+boto3
+sqlite3
+ 
